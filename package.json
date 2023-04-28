@@ -1,0 +1,22 @@
+{
+  "name": "@dev_bhuptani/is-devil-alive",
+  "version": "2.0.0",
+  "description": "This is only for learning and testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-edx/npm-package-devil.git"
+  },
+  "keywords": [
+    "devil"
+  ],
+  "author": "dev_bhuptani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dev-edx/npm-package-devil/issues"
+  },
+  "homepage": "https://github.com/Dev-edx/npm-package-devil#readme"
+}
