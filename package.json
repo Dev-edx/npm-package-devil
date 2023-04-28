@@ -1,6 +1,6 @@
 {
-  "name": "@dev_bhuptani/is-devil-alive",
-  "version": "2.0.0",
+  "name": "material@calculator",
+  "version": "2.0.1",
   "description": "This is only for learning and testing purpose",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Dev-edx/npm-package-devil.git"
   },
   "keywords": [
-    "devil"
+    "calc"
   ],
   "author": "dev_bhuptani",
   "license": "MIT",
